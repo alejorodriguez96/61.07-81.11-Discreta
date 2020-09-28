@@ -1,4 +1,4 @@
-#61.07 / 81.11 - Matematica Discreta
+# 61.07 / 81.11 - Matematica Discreta
 
 Repositorio con material de estudio de Matematica Discreta FIUBA.
 
